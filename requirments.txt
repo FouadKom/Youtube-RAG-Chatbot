@@ -1,0 +1,7 @@
+youtube-transcript-api
+transformers
+torch
+langchain
+langchain-chroma
+langchain-embeddings
+sentence-transformers
